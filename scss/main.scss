@@ -1,0 +1,30 @@
+// base
+
+@import "base/reset";
+@import "base/vars";
+@import "base/base";
+@import "base/utils";
+@import "base/containers";
+@import "base/sticky-footer";
+
+// libs
+
+@import "../libs/swiper.min.css";
+
+// blocks
+
+@import "blocks/loader-wrapper";
+@import "blocks/loader";
+@import "blocks/header";
+@import "blocks/nav";
+@import "blocks/nav-btn";
+@import "blocks/socials";
+@import "blocks/see-more";
+@import "blocks/slider-controls";
+@import "blocks/mobile-nav-overlay";
+@import "blocks/mobile-nav";
+
+@import "blocks/slide";
+@import "blocks/location";
+
+@import "blocks/section";
